@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Марина Лопатникова](https://up.htmlacademy.ru/javascript/21/user/224291).
-* Наставник: `Неизвестно`.
+* Наставник: [Игорь Казанцев](https://htmlacademy.ru/profile/id572311).
 
 ---
 
